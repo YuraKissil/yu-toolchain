@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="456" startPos="52" endPos="52" selMode="0" offset="0" wrapCount="1" lang="JSON" encoding="-1" userReadOnly="no" filename="C:\_yu\OpenServer-5.3.8\domains\localhost\mdn\client-side-tools\npm-experiment\package.json" backupFilePath="" originalFileLastModifTimestamp="1887945097" originalFileLastModifTimestampHigh="31198952" tabColourId="-1" RTL="no" tabPinned="no" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="608" startPos="226" endPos="226" selMode="0" offset="0" wrapCount="1" lang="HTML" encoding="-1" userReadOnly="no" filename="C:\_yu\OpenServer-5.3.8\domains\localhost\mdn\client-side-tools\npm-experiment\index.html" backupFilePath="" originalFileLastModifTimestamp="-566608085" originalFileLastModifTimestampHigh="31198952" tabColourId="-1" RTL="no" tabPinned="no" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="608" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="JavaScript" encoding="-1" userReadOnly="no" filename="C:\_yu\OpenServer-5.3.8\domains\localhost\mdn\client-side-tools\npm-experiment\src\main.jsx" backupFilePath="" originalFileLastModifTimestamp="-831095744" originalFileLastModifTimestampHigh="31198952" tabColourId="-1" RTL="no" tabPinned="no" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="57" mapNbLine="57" mapHigherPos="0" mapWidth="342" mapHeight="171" mapKByteInDoc="0" mapWrapIndentMode="1" mapIsWrap="yes" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
