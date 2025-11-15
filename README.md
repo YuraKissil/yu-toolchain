@@ -4,17 +4,6 @@
 
 {}(https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_tools/Introducing_complete_toolchain#toolchains_and_their_inherent_complexity)
 
-
-
-
-
-
-
-
-
-
-
-
 # test
 
 This template should help get you started developing with Vue 3 in Vite.
